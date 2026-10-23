@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Current Focus:** Building open educational resources, course materials, and static sites for my students using **GitHub Pages** & **Just the Docs**.
+- 🔭 **Current Focus:** Building open educational resources, course materials, and static sites for my students.
 - 📖 **Teaching Subjects:** 
   - **Informatica:** Programming, Data Structures, Web Development, and Databases.
   - **TPSI:** Information Theory (Shannon, Coding), Computer Architecture, Operating Systems, Concurrent Programming, and Software Engineering.
-- 🌱 **Always Learning:** Advanced Systems Architecture, Memory-Safe Programming (Rust), Functional Paradigms (Haskell), and Modern Web Stack.
+- 🌱 **Always Learning** 
 - 📫 **How to reach me:** [invittofrancesco@gmail.com](mailto:invittofrancesco@gmail.com)
 
 ---
